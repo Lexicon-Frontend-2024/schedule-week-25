@@ -7,7 +7,7 @@
 #### E-Learning
 [Samlat innehåll för hela kursen](https://github.com/Lexicon-Frontend-2024/e-learning-material/edit/main/README.md)
 ###### Utvalda för denna veckan:
-* [Creating Animations, CSS](https://app.pluralsight.com/ilx/video-courses/clips/7fcfa281-2e8e-4f0e-ae16-4d24a500157f)
+* [Creating Layouts with CSS](https://app.pluralsight.com/library/courses/css-creating-layouts/table-of-contents)
 #### Video
 * [Scrimba HTML och CSS, forts.](https://scrimba.com/learn/htmlandcss)
 #### Läsning
