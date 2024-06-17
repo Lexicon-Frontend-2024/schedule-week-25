@@ -13,7 +13,7 @@
 #### Läsning
 
 
-## Övningar(https://app.pluralsight.com/ilx/video-courses/clips/7fcfa281-2e8e-4f0e-ae16-4d24a500157f) och [Animation Tutorial](https://www.youtube.com/watch?v=jgw82b5Y2MU)
+## Övningar
 * [Animation Bootcamp](https://github.com/Lexicon-Frontend-2024/exercise-animation-bootcamp) Deadline tisdag v.25
 * [Planned Planthood](https://github.com/Lexicon-Frontend-2024/exercise-html-css-planned-planthood) Deadline måndag v.26
 
